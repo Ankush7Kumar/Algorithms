@@ -1,2 +1,2 @@
-# Leetcode
-Leetcode Question Solutions
+# Algorithms
+Algorithms written in Python
