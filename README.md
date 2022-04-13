@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms written in C++
+Algorithms written in C++ and Python.
